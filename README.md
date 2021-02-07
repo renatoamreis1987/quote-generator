@@ -2,9 +2,9 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
 A Project to get random quotes in English.
+
+[Project on GitHub Pages](https://renatoamreis1987.github.io/quote-generator/)
 
 ## Built With
 
