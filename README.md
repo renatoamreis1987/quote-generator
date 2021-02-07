@@ -1,10 +1,33 @@
-## TO CHANGE
+<!-- ABOUT THE PROJECT -->
 
-Background color of the buttons to orange
+## About The Project
 
+[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Possible change API to https://fraze.it/api.jsp - it retrieves in XML and we mush deal with
+A Project to get random quotes in English.
 
-## CHECK - Appendix: CORS Issues
+## Built With
 
-And build our own
+Only with JavaScript and Forismatic API.
+
+- [Forismatic API](https://forismatic.com/)
+
+<!-- ROADMAP -->
+
+## Roadmap
+
+See the [open issues](https://github.com/renatoamreis1987/quote-generator/issues) for a list of proposed features (and known issues).
+
+<!-- CONTACT -->
+
+## Contact
+
+Renato Reis - [@RenatoAMReis](https://twitter.com/RenatoAMReis)
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## Zero to Mastery Academy Credits
+
+This project is included on the ZTM “JavaScript Web Projects: 20 Projects to Build Your Portfolio”, however with some changes and improvements that I made.
+
+[Zero to Mastery](https://academy.zerotomastery.io/p/javascript-projects)
